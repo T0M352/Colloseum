@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1469142457 source:c:\users\tomeg\desktop\cpp\colloseum - projekt\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<fstream>
+
+1469135257 source:d:\new folder (2)\cpp\colloseum - projekt\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<fstream>
+
